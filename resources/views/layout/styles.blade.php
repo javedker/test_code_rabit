@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/animate.css') }}">
+<link rel="stylesheet" href="{{ asset('css/swiper-bundle.css') }}">
+<link rel="stylesheet" href="{{ asset('css/slick.css') }}">
+<link rel="stylesheet" href="{{ asset('css/nice-select.css') }}">
+<link rel="stylesheet" href="{{ asset('css/fontawesome.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
+<link rel="stylesheet" href="{{ asset('css/spacing.css') }}">
+<link rel="stylesheet" href="{{ asset('css/meanmenu.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main.css') }}">
