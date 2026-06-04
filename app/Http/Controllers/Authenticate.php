@@ -9,7 +9,6 @@ use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
 
 
-class Authenticate extends Controller
 {
     function __construct() {}
     function signIn(): mixed
